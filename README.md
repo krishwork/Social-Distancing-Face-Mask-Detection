@@ -76,18 +76,3 @@ Set all downloaded files to their respective folders/path as given in Folder Str
 	*  To activate environment:--&nbsp; &nbsp; &nbsp; `conda activate tf_python`
 	* Run main module:-- `python main.py`
 	
-
-> ## Outputs--
-![](https://github.com/Shantanugupta1118/Social-Distancing-and-Face-Mask-Detection/blob/main/Output%20Data/output_2.jpg)
-> ## Contribute:
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>:fire: Contributions are always welcome!</b>
-# Drop a :star: if you like this Repository.. :smile: 
-	
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![enjoy][enjoy-image]][linkedin-url] &nbsp;&nbsp;&nbsp;&nbsp; [![status][issue-image]][issue-url]
-
-[enjoy-image]: https://img.shields.io/badge/Enjoy%20this%3F-Say%20Thanks!-yellow
-[linkedin-url]: https://www.linkedin.com/in/shang1118/
-[issue-image]: https://img.shields.io/badge/Any%20Issues%3F-Track%20Issue-red
-[issue-url]: https://github.com/Shantanugupta1118/Social-Distancing-and-Face-Mask-Detection/issues
-:point_right::point_right::point_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Shantanu%20-Gupta-orange?style=for-the-badge&logo=Coder)]:point_left::point_left::point_left:
